@@ -35,7 +35,7 @@ T-Piece component; (a) mechanical drawing with characteristic dimensions; (b) 3D
 <div>
 <img src="img/image4.png" width="50%">
 </div>
-3D Printed Knuckle (a) mechanical drawing with characteristic dimnsions; (b) 3D Printed PLA component and (c) T-Piece connected to facemask.  
+3D Printed Knuckle (a) mechanical drawing with characteristic dimensions; (b) 3D Printed PLA component and (c) T-Piece connected to facemask.  
 
 ## Documentation  <a name="Documentation"></a>
 Coming soon
