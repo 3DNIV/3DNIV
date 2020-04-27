@@ -26,7 +26,7 @@ An Innovative Non Invasive Ventilator Circuit Design for Emergency Use using 3D 
 </div>
 System-level schematic of the modified Dual NIV CPAP.
 
-### 3D printed componets
+### 3D printed components
 <div>
 <img src="img/image3.png" width="50%">
 </div>
