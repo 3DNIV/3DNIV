@@ -65,7 +65,6 @@ The orientation of printing used here is upright (such that the larger cylindric
 After 3D printing any 3D printed support structures should be removed.    
 
 ## Assembly instructions <a name="Assembly"></a>
-I'll make my edits here to give some assembly instructions.
 
 
 ## Testing instructions <a name="Testing"></a>
