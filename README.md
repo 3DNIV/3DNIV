@@ -43,7 +43,7 @@ T-Piece component; (a) mechanical drawing with characteristic dimensions; (b) 3D
 3D Printed Knuckle (a) mechanical drawing with characteristic dimensions; (b) 3D Printed PLA component and (c) T-Piece connected to facemask.  
 
 ## Documentation  <a name="Documentation"></a>
-Coming soon
+The documentation is in the /docs folder and takes the form of a MarkDown file, see: [documentation.md](https://github.com/3DNIV/3DNIV/blob/master/docs/documentation.md).
 
 ## Contributing  <a name="Contributing"></a>
 We'd love for you to contribute to this project! We welcome all sorts of contributions including design, testing, documentation, and documentation translations. To help simple fork or clone this repository to start working and [post a new issue](https://github.com/Kevin-Mattheus-Moerman/3DNIV/issues/new/choose) if you have any questions. You may propose changes by creating a [pull-request](https://github.com/Kevin-Mattheus-Moerman/3DNIV/pulls).
