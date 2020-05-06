@@ -58,7 +58,7 @@ The CAD design geometry includes (as shown in the [technical drawing](https://gi
 ### The knuckle piece
 
 **CAD file**: [/CAD/NIV_CPAP_Knuckle.FCStd](https://github.com/3DNIV/3DNIV/blob/master/CAD/NIV_CPAP_Knuckle.FCStd)  
-**Technical drawing**: [/CAD/NIV_CPAP_Knuckle](https://github.com/3DNIV/3DNIV/blob/master/CAD/NIV_CPAP_Knuckle.pdf)    
+**Technical drawing**: [/CAD/NIV_CPAP_Knuckle.pdf](https://github.com/3DNIV/3DNIV/blob/master/CAD/NIV_CPAP_Knuckle.pdf)    
 **gcode file**: [/gcode/NIV_CPAP_Knuckle_GCODE.GCODE](https://github.com/3DNIV/3DNIV/blob/master/gcode/NIV_CPAP_Knuckle_GCODE.GCODE)    
 
 ![](../img/image4.png)   
