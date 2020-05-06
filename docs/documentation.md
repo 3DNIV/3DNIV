@@ -23,10 +23,14 @@ The figure below shows the system overview. The T-piece splitter is shown connec
 A system-level schematic of the proposed modified Dual NIV CPAP.
 
 ## Required Components <a name="Components"></a>
-### CPAP unit
+### Ventilator Unit
+The modified Dual NIV CPAP circuit depends on a pressure-control ventilator unit, with the circuit here using a Philips Respironics Trilogy 202\textsuperscript{TM} ventilator. The circuit should also be compatible with other similar units. 
 ### Viral filters
-### tubing
+The modified circuit uses XXXX viral filters (make, Model) connected through 22mm ports at both inspiratory and expiratory ends. 
 ### Masks
+The circuit uses an NIV facemask (make, Model) connected through a swivel 32mm port. 
+### Tubing
+All of the hardware listed here is designed to connect to standard respirator tubing that uses universal 22mm ports/connections.
 
 ## Manufacturing instructions <a name="Manufacture"></a>
 
