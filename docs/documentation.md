@@ -29,8 +29,11 @@ The modified Dual NIV CPAP circuit depends on a pressure-control ventilator unit
 The modified circuit uses XXXX viral filters (make, Model) connected through 22mm ports at both inspiratory and expiratory ends. 
 ### Masks
 The circuit uses an NIV facemask (make, Model) connected through a swivel 32mm port. 
+### Test Lung
+Two XXXX Test Lungs (make, Model) are required to test the system setup prior to general use. 
 ### Tubing
 All of the hardware listed here is designed to connect to standard respirator tubing that uses universal 22mm ports/connections.
+
 
 ## Manufacturing instructions <a name="Manufacture"></a>
 
@@ -69,6 +72,7 @@ The orientation of printing used here is upright (such that the larger cylindric
 After 3D printing any 3D printed support structures should be removed.    
 
 ## Assembly instructions <a name="Assembly"></a>
-
+Connect the female port of the T-piece splitter directly to the ventilator outflow. Connect seperate inspiratory viral filters to the two male ports of the T-piece splitter. Connect standard respirator tubing to these viral filters to form the two limbs of the dual circuit. At the end of both tubing limbs, connect an expiratory viral filter and the 3D printed knuckle feature. Connect each knuckle component to NIV face masks through the swivel port.
 
 ## Testing instructions <a name="Testing"></a>
+The Dual NIV CPAP Circuit should be tested prior to use. Follow the assembly instructions above, but connect the system to two 1L test lungs (Model, Company) instead of the NIV face mask. Run the ventilator is pressure-control CPAP configuration to establish that it is capable of delivering 10 cm H\textsubscript{2}0 by inflating both test lungs for at least 60 seconds. 
