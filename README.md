@@ -3,7 +3,7 @@
 ## 3DNIV
 
 This is the project repository for the:    
-**Development of a Dual Non-Invasive Ventilator Continuous Positive Airway Pressure (CPAP) Circuit for Emergency Use in the COVID19 Pandemic using 3D Printed Components**
+**A Novel Dual Non-Invasive Ventilator Continuous Positive Airway Pressure Non-Aerosolization Circuit for Emergency Use in the COVID-19 Pandemic**
 
 Harware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20S-orange.svg)](https://github.com/Kevin-Mattheus-Moerman/3DNIV/blob/master/LICENSE)    
 Documentation and other content: [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
@@ -17,7 +17,7 @@ Documentation and other content: [![License](https://img.shields.io/badge/Licens
 - [License](#License)  
 
 ## Project summary <a name="Summary"></a>
-An Innovative Non Invasive Ventilator Circuit Design for Emergency Use using 3D printing Technology to increase Continuous Positive Airway Pressure (CPAP) capacity and Prevent Infectious Viral Aerosolization in the COVID19 Pandemic
+The COVID-19 pandemic is a public health emergency of unprecedented scale. The surge in clinical cases of patients with severe respiratory illness has overwhelmed the traditional capacity of healthcare systems worldwide. Continuous Positive Airway Pressure (CPAP) delivered through Non-Invasive Ventilation (NIV) has been shown to be useful in caring for patients with COVID-19. In particular patients with early stage milder acute hypoxemic respiratory failure can benefit from NIV CPAP therapy, though there is an acknowledged risk of COVID-19 aerosolization with traditional circuit use. Furthermore, given the surge in clinical care demand, there is an acute global shortage of ventilators, including NIV devices and therefore innovative methods are needed to increase NIV capacity and ameliorate infectious aerosolization. This project presents an emergency use modified dual NIV CPAP Circuit that uses a 3D printed splitter designed to work with traditional international NIV CPAP tubing standards and a 3D printed respiratory face mask knuckle to allow for distal expiratory breath exhalation through a viral filter rather than through an open to air proximal valve, which is the traditional NIV CPAP configuration. We expect that this work will increase global NIV CPAP capacity and ameliorate aerosolization of COVID-19 in patients undergoing therapy in an emergency scenario. 
 
 ### The standard NIC CPAP configuration
 <div>
