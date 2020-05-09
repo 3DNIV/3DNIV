@@ -20,19 +20,19 @@
 The figure below shows the system overview. The T-piece splitter is shown connected to the CPAP unit and the inspiratory viral filters. Further more the tubing leading to the face mask is shown. At the face mask the knuckle connects to the mask and an expiratory viral filter.
 
 ![](../img/image2.png)    
-A system-level schematic of the proposed modified Dual NIV CPAP.
+A system-level schematic of the proposed modified Dual NIV CPAP circuit.
 
 ## Required Components <a name="Components"></a>
 ### Ventilator Unit
-The modified Dual NIV CPAP circuit depends on a pressure-control ventilator unit, with the circuit here using a Philips Respironics Trilogy 202\textsuperscript{TM} ventilator. The circuit should also be compatible with other similar units. 
+The modified Dual NIV CPAP circuit depends on a pressure-control ventilator unit, with the circuit here using a Philips Respironics Trilogy 202TM ventilator. The circuit should also be compatible with other similar units. 
 ### Viral filters
-The modified circuit uses XXXX viral filters (make, Model) connected through 22mm ports at both inspiratory and expiratory ends. 
+The modified circuit uses viral filters connect through 22mm ports at inspiratory (Servo Duo Guard, Maquet Gettinge) and expiratory  (VIROBAC II, King Systems) ends
 ### Masks
-The circuit uses an NIV facemask (make, Model) connected through a swivel 32mm port. 
+The circuit uses an NIV facemask (SE MaxshieldTM, Pulmodyne) connected through a swivel 32mm port. 
 ### Test Lung
-Two XXXX Test Lungs (make, Model) are required to test the system setup prior to general use. 
+Two 1L test lungs (Test Lung 190, Maquet, Wayne, New Jersey) are required to test the system setup prior to general use. 
 ### Tubing
-All of the hardware listed here is designed to connect to standard respirator tubing that uses universal 22mm ports/connections.
+All of the hardware listed here is designed to connect to standard respirator tubing (BiTracTM Circuit, Pulmodyne) that uses universal 22mm ports/connections.
 
 
 ## Manufacturing instructions <a name="Manufacture"></a>
