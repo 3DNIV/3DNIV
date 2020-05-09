@@ -24,15 +24,15 @@ A system-level schematic of the proposed modified Dual NIV CPAP circuit.
 
 ## Required Components <a name="Components"></a>
 ### Ventilator Unit
-The modified Dual NIV CPAP circuit depends on a pressure-control ventilator unit, with the circuit here using a Philips Respironics Trilogy 202TM ventilator. The circuit should also be compatible with other similar units. 
+The modified Dual NIV CPAP circuit depends on a pressure-control ventilator unit, with the circuit here using a Philips Respironics Trilogy 202™ ventilator. The circuit should also be compatible with other similar units. 
 ### Viral filters
 The modified circuit uses viral filters connect through 22mm ports at inspiratory (Servo Duo Guard, Maquet Gettinge) and expiratory  (VIROBAC II, King Systems) ends
 ### Masks
-The circuit uses an NIV facemask (SE MaxshieldTM, Pulmodyne) connected through a swivel 32mm port. 
+The circuit uses an NIV facemask (SE Maxshield™, Pulmodyne) connected through a swivel 32mm port. 
 ### Test Lung
-Two 1L test lungs (Test Lung 190, Maquet, Wayne, New Jersey) are required to test the system setup prior to general use. 
+Two 1L test lungs (Test Lung 190, Maquet™, Wayne, New Jersey) are required to test the system setup prior to general use. 
 ### Tubing
-All of the hardware listed here is designed to connect to standard respirator tubing (BiTracTM Circuit, Pulmodyne) that uses universal 22mm ports/connections.
+All of the hardware listed here is designed to connect to standard respirator tubing (BiTrac™ Circuit, Pulmodyne) that uses universal 22mm ports/connections.
 
 
 ## Manufacturing instructions <a name="Manufacture"></a>
@@ -44,7 +44,7 @@ All of the hardware listed here is designed to connect to standard respirator tu
 **gcode file**: [/gcode/NIV_CPAP_T_Piece_GCODE.GCODE](https://github.com/3DNIV/3DNIV/blob/master/gcode/NIV_CPAP_T_Piece_GCODE.GCODE)    
 
 ![](../img/image3.png)   
-The novel T-piece component. A CAD file view ( A ), part of the technical drawing showing characteristic dimensions ( B ), the PLA 3D printed T-Piece ( C ), and the T-Piece connected to a NIV machine and tubing ( D ).
+The novel T-piece component. A) The CAD file view, B) part of the technical drawing showing characteristic dimensions, C) the PLA 3D printed T-Piece, D) and the T-Piece connected to a NIV machine and tubing.
 
 This part can be 3D printed from Polylactic Acid (PLA) with an Ultimaker S5 (Ultimaker BV, The Netherlands) using an extrusion-based layer-by-layer process at a resolution of 200 micron and 100 % infill to prevent air leaks.   
 
@@ -62,7 +62,7 @@ The CAD design geometry includes (as shown in the [technical drawing](https://gi
 **gcode file**: [/gcode/NIV_CPAP_Knuckle_GCODE.GCODE](https://github.com/3DNIV/3DNIV/blob/master/gcode/NIV_CPAP_Knuckle_GCODE.GCODE)    
 
 ![](../img/image4.png)   
-The novel T-piece component. A CAD file view ( A ), part of the technical drawing showing characteristic dimensions ( B ), the PLA 3D printed T-Piece ( C ), and the T-Piece connected to a NIV machine and tubing ( D ).
+The novel T-piece component. A) THe CAD file view, B) part of the technical drawing showing characteristic dimensions, C) the PLA 3D printed T-Piece, D) and the T-Piece connected to a NIV machine and tubing.
 
 This part can be 3D printed from Polylactic Acid (PLA) with an Ultimaker S5 (Ultimaker BV, The Netherlands) using an extrusion-based layer-by-layer process at a resolution of 200 micron and 100 % infill to prevent air leaks.   
 
@@ -75,4 +75,4 @@ After 3D printing any 3D printed support structures should be removed.
 Connect the female port of the T-piece splitter directly to the ventilator outflow. Connect separate inspiratory viral filters to the two male ports of the T-piece splitter. Connect standard respirator tubing to these viral filters to form the two limbs of the dual circuit. At the end of both tubing limbs, connect an expiratory viral filter and the 3D printed knuckle feature. Connect each knuckle component to NIV face masks through the swivel port.
 
 ## Testing instructions <a name="Testing"></a>
-The Dual NIV CPAP Circuit should be tested prior to use. Follow the assembly instructions above, but connect the system to two 1L test lungs (Model, Company) instead of the NIV face mask. Run the ventilator in pressure-control CPAP configuration to establish that it is capable of delivering 10 cm H₂0 by inflating both test lungs for at least 60 seconds. 
+The Dual NIV CPAP Circuit should be tested prior to use. Follow the assembly instructions above, but connect the system to two 1L test lungs (Test Lung 190, Maquet™, Wayne, New Jersey) instead of the NIV face mask (SE Maxshield™, Pulmodyne). Run the ventilator in pressure-control CPAP configuration to establish that it is capable of delivering 10 cm H₂0 by inflating both test lungs for at least 60 seconds. 
