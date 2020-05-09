@@ -2,8 +2,8 @@
 
 ## 3DNIV
 
-This is the repository for a low cost and open source:    
-**Non-invasive ventilator circuit design for emergency use featuring 3D printed components to increase Continuous Positive Airway Pressure (CPAP) capacity and prevent infectious viral aerosolization in the COVID19 Pandemic**
+This is the project repository for the:    
+**Development of a Dual Non-Invasive Ventilator Continuous Positive Airway Pressure (CPAP) Circuit for Emergency Use in the COVID19 Pandemic using 3D Printed Components**
 
 Harware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20S-orange.svg)](https://github.com/Kevin-Mattheus-Moerman/3DNIV/blob/master/LICENSE)    
 Documentation and other content: [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
