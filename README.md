@@ -5,7 +5,7 @@
 This is the project repository for the:    
 **A Novel Dual Non-Invasive Ventilator Continuous Positive Airway Pressure Non-Aerosolization Circuit for Emergency Use in the COVID-19 Pandemic**
 
-Harware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20S-orange.svg)](https://github.com/Kevin-Mattheus-Moerman/3DNIV/blob/master/LICENSE)    
+Hardware: [![License](https://img.shields.io/badge/License-CERN%20OHL%20S-orange.svg)](https://github.com/Kevin-Mattheus-Moerman/3DNIV/blob/master/LICENSE)    
 Documentation and other content: [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/legalcode)
 
 
